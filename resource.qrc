@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/background.bmp</file>
+        <file>img/board.png</file>
+        <file>img/green.png</file>
+        <file>img/red.png</file>
+        <file>img/tp.png</file>
+        <file>img/1.png</file>
+        <file>img/2.png</file>
+        <file>img/3.png</file>
+        <file>img/4.png</file>
+        <file>img/5.png</file>
+        <file>img/6.png</file>
+        <file>img/7.png</file>
+        <file>img/8.png</file>
+        <file>img/9.png</file>
+        <file>img/10.png</file>
+        <file>img/11.png</file>
+        <file>img/12.png</file>
+        <file>img/13.png</file>
+        <file>img/14.png</file>
+        <file>img/middle.png</file>
+        <file>img/endpic.png</file>
+        <file>img/blackwin.png</file>
+        <file>img/redwin.png</file>
+    </qresource>
+</RCC>
